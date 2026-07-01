@@ -1,0 +1,40 @@
+# Web framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.18       # file uploads
+
+# Validation & settings
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# LLM & embeddings
+openai==1.58.1
+
+# Reranker
+cohere==5.13.5
+
+# Vector DB
+qdrant-client==1.12.2
+
+# PDF parsing
+pymupdf==1.25.1                # fitz — fast, accurate
+
+# Text chunking / NLP
+tiktoken>=0.7.0               # token counting
+sentence-transformers==3.3.1   # semantic chunking
+langchain-text-splitters==0.3.2
+
+# Hybrid search (BM25)
+rank-bm25==0.2.2
+
+# HTTP client (async)
+httpx==0.28.1
+
+# Observability
+structlog==24.4.0
+
+# Dev / testing
+pytest==8.3.4
+pytest-asyncio==0.24.0
+httpx==0.28.1                  # also used for TestClient
+python-dotenv==1.0.1
