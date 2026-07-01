@@ -117,4 +117,4 @@ researchmind/
 
 ---
 
-Built by [Harish Radhakrishnan](https://www.linkedin.com/in/HarishRadhakrishnan) · [GitHub](https://github.com/HarishRadhakrishnan23)
+Built by [Harish Radhakrishnan](https://www.linkedin.com/in/harish-radhakrishnan-207523255/) · [GitHub](https://github.com/HarishRadhakrishnan23)
